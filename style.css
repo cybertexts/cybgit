@@ -149,12 +149,15 @@ ul li a:hover{
 
 
 .contentos{
-    width: 1000px;
+    width: 90%;
     height: auto;
     margin: auto;
     background: #fff2cc;
     color: #5b5b5b;
     position: relative;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
 }
 
 
