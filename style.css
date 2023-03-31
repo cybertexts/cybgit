@@ -25,7 +25,7 @@ canvas {
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(---);
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    height: 100%;
 }
 
 .navbar{
@@ -166,7 +166,7 @@ ul li a:hover{
 
 
 .contentos{
-    width: 90%;
+    width: auto;
     height: auto;
     margin: auto;
     background: #fff2cc;
