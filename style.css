@@ -530,4 +530,10 @@ canvas {
     font-family: Arial;
 }
 
-
+.main{
+    width: 100%;
+    background: rgba(180, 205, 160, .5);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+  
