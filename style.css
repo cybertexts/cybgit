@@ -60,6 +60,11 @@ div {
   text-align: right;
 }
 
+.astart {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
 .end {
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
