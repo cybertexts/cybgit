@@ -4,5 +4,6 @@
 Запрещено автоматизированное скачивание, копирование, 
 переиспользование текстов и сценариев без разрешения автора.
 
-## © Inner Output - George Chatzky
+## © Георгий Чацкий 
+# a.k.a (Inner Output project - George Chatzky)
    ## All Rights Reserved 
